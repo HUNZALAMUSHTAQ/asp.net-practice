@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAuthPractice", "IdentityAuthPractice\IdentityAuthPractice.csproj", "{CF80B64D-981F-4D77-BA6D-F106D4DFD372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF80B64D-981F-4D77-BA6D-F106D4DFD372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF80B64D-981F-4D77-BA6D-F106D4DFD372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF80B64D-981F-4D77-BA6D-F106D4DFD372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF80B64D-981F-4D77-BA6D-F106D4DFD372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA9351E-50DA-4E94-8B4A-09D56DAE976A}
+	EndGlobalSection
+EndGlobal
